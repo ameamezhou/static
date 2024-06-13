@@ -13,7 +13,7 @@ module.exports = {
     assetsDir: 'static' ,
 
     devServer: {
-        host: '9.134.4.141',
+        host: 'localhost',
         port: 33999,
         disableHostCheck: true,
         sockHost: 'localhost',

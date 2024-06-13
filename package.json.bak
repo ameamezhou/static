@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tencent/wxitil-watermark": "^1.0.8",
     "axios": "^0.21.4",
     "core-js": "^3.19.1",
     "echarts": "^5.3.2",

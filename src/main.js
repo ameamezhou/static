@@ -37,7 +37,6 @@ import {
   Poptip
 } from 'view-design';
 import 'view-design/dist/styles/iview.css';
-import '@tencent/wxitil-watermark/mask.js';
 import JsonExcel from 'vue-json-excel';
 
 
